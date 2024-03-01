@@ -1,0 +1,6 @@
+{
+    "environment" : "production",
+    "serverID"  : "{SERVERID}",
+    "serverKey" : "{SERVERKEY}",
+    "webServer" : "{WEBSERVER}"
+}
